@@ -12,6 +12,7 @@ namespace LogicalPrograms
             PerfectNumber.Perfect();
             PrimeNumber.Prime();
             ReverseNumber.Reverse();
+            DayOfWeek.Week();
 
             Console.ReadLine();
         }
