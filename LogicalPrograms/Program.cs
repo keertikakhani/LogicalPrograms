@@ -11,6 +11,7 @@ namespace LogicalPrograms
             FibonacciSeries.Fibonacci();
             PerfectNumber.Perfect();
             PrimeNumber.Prime();
+            ReverseNumber.Reverse();
 
             Console.ReadLine();
         }
