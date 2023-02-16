@@ -15,6 +15,7 @@ namespace LogicalPrograms
             DayOfWeek.Week();
             TempConversion.Conversion();
             MonthlyPayment.Payment();
+            SquareRoot.Sqrt();
 
             Console.ReadLine();
         }
