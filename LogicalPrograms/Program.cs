@@ -14,6 +14,7 @@ namespace LogicalPrograms
             ReverseNumber.Reverse();
             DayOfWeek.Week();
             TempConversion.Conversion();
+            MonthlyPayment.Payment();
 
             Console.ReadLine();
         }
