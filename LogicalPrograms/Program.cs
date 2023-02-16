@@ -7,6 +7,9 @@ namespace LogicalPrograms
         public static void Main(string[] args)
         {
             Console.WriteLine("C# Logical Programs");
+
+            FibonacciSeries.Fibonacci();
+
             Console.ReadLine();
         }
     }
