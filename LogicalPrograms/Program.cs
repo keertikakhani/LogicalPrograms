@@ -13,6 +13,7 @@ namespace LogicalPrograms
             PrimeNumber.Prime();
             ReverseNumber.Reverse();
             DayOfWeek.Week();
+            TempConversion.Conversion();
 
             Console.ReadLine();
         }
